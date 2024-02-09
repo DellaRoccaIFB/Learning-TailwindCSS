@@ -76,6 +76,24 @@ const data = {
         "Mergulhe em um mundo de sensações com a Essência de Patchouli. Extraído de folhas secas da planta Pogostemon Cablin, este óleo essencial possui um aroma terroso, amadeirado e levemente picante, capaz de despertar a sensualidade e a criatividade.",
     },
   ],
+  footerLinks: [
+    {
+      name: "Instagram",
+      url: "https://instagram.com/jp_dellarocca",
+    },
+    {
+      name: "Linkedin",
+      url: "https://www.linkedin.com/in/joao-pedro-della-rocca-de-camargos/",
+    },
+    {
+      name: "Github",
+      url: "https://github.com/DellaRoccaIFB",
+    },
+    {
+      name: "Repositório do projeto",
+      url: "https://github.com/DellaRoccaIFB/Learning-TailwindCSS",
+    },
+  ],
 };
 
 export default data;
