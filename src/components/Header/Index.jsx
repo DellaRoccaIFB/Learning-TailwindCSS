@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { FiUser, FiSearch, FiShoppingCart } from "react-icons/fi";
 import { GoStarFill } from "react-icons/go";
 import image from "../../assets/ExportImages";
